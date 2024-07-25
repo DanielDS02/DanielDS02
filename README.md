@@ -1,5 +1,5 @@
-# Hello World 😁
-My name is Daniel Doleski Simão 😃
+# Hello World 😁, My name is Daniel Doleski Simão and i am a BackEnd Developer 
+
 
 
 ## I know about
